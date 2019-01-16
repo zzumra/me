@@ -9,4 +9,4 @@
 **2. Ders**:  Kapışma
 
 
-  - **İçerik**: https://github.com/okudan/me
+  - **İçerik**: https://github.com/okudan/me/blob/master/Ders%202.pdf
