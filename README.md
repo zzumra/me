@@ -1,7 +1,12 @@
-# Me
+# MAYADER!
 
-**Description**:  This is a repository aiming to help complete beginners who want to learn how to code, take their first step.
+**1. Ders**:  Giriş
 
 
-  - **Technology stack**: For the first part of the project it will only consist of HTML but I will add more stuff into it.
-  - **Status**:  Alpha
+  - **İçerik**: Giriş, sayı tabanları, bilgisayar çalışma prensipleri, temel fonksiyonlar.
+  
+  
+**2. Ders**:  Kapışma
+
+
+  - **İçerik**: https://github.com/okudan/me
