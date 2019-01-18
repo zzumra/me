@@ -9,6 +9,6 @@
 **2. Ders**:  Kapışma
 
 
-  - **İçerik**: [Ders 2] (https://github.com/okudan/me/blob/master/Ders%202.pdf)
-	- ***[Taha] (https://gunaydintaha.github.io/me/)***
+  - **İçerik**: [Ders 2](https://github.com/okudan/me/blob/master/Ders%202.pdf)
+	- ***[Taha](https://gunaydintaha.github.io/me/)***
   
